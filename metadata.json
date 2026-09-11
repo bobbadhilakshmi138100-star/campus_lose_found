@@ -1,0 +1,6 @@
+{
+  "name": "Campus Lost & Found",
+  "description": "Marwadi University Campus Lost and Found app for reporting, discovering, claiming, and verifying lost belongings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
